@@ -55,3 +55,7 @@ This Python program allows for the management of student records through functio
 2. Search for specific students using their student ID.
 3. Update the GPA of a student by providing the student ID and the new GPA value.
 4. View the complete list of students with their details.
+#### Author:
+- Dire Dawa University Computer Science Department Group 4 student
+
+
